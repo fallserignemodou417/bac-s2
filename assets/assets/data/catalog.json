@@ -5,6 +5,7 @@
       "name": "Mathématiques",
       "icon": "calculate",
       "color": "#1565C0",
+      "image": "assets/images/maths.png",
       "documents": [
         {
           "id": "maths-fascicule",
@@ -27,6 +28,7 @@
       "name": "Physique-Chimie",
       "icon": "science",
       "color": "#6A1B9A",
+      "image": "assets/images/physique_chimie.png",
       "documents": [
         {
           "id": "physique-fascicule",
@@ -56,6 +58,7 @@
       "name": "SVT",
       "icon": "biology",
       "color": "#2E7D32",
+      "image": "assets/images/svt.png",
       "documents": [
         {
           "id": "svt-fascicule",
@@ -78,6 +81,7 @@
       "name": "Histoire-Géographie",
       "icon": "history",
       "color": "#BF360C",
+      "image": "assets/images/histoire_geo.png",
       "documents": [
         {
           "id": "hg-fascicule-histoire",
