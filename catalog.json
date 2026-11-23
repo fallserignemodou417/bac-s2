@@ -1,0 +1,99 @@
+{
+  "subjects": [
+    {
+      "id": "maths",
+      "name": "Mathématiques",
+      "icon": "calculate",
+      "color": "#1565C0",
+      "documents": [
+        {
+          "id": "maths-fascicule",
+          "title": "Fascicule de mathématiques TS2",
+          "kind": "fascicule",
+          "path": "assets/pdfs/Fascicule mathématiques TS2.pdf",
+          "description": "Cours et méthodes de mathématiques pour la Terminale S2."
+        },
+        {
+          "id": "maths-exercices",
+          "title": "Exercices prépa BAC – Mathématiques",
+          "kind": "epreuve",
+          "path": "assets/pdfs/Epreuves Bac maths TS2.pdf",
+          "description": "Exercices d'entraînement au BAC de mathématiques TS2."
+        }
+      ]
+    },
+    {
+      "id": "physique-chimie",
+      "name": "Physique-Chimie",
+      "icon": "science",
+      "color": "#6A1B9A",
+      "documents": [
+        {
+          "id": "physique-fascicule",
+          "title": "Fascicule de physique TS2",
+          "kind": "fascicule",
+          "path": "assets/pdfs/Fasicule-PHYSIQUE WTS-lsll.pdf",
+          "description": "Cours de physique de Terminale S2."
+        },
+        {
+          "id": "chimie-fascicule",
+          "title": "Fascicule de chimie TS2",
+          "kind": "fascicule",
+          "path": "assets/pdfs/Fasicule-CHIMIE WTS-lsll.pdf",
+          "description": "Cours de chimie de Terminale S2."
+        },
+        {
+          "id": "pc-exercices",
+          "title": "Exercices prépa BAC – Physique-Chimie",
+          "kind": "epreuve",
+          "path": "assets/pdfs/Epreuves Bac PC TS2.pdf",
+          "description": "Exercices d'entraînement au BAC de physique-chimie TS2."
+        }
+      ]
+    },
+    {
+      "id": "svt",
+      "name": "SVT",
+      "icon": "biology",
+      "color": "#2E7D32",
+      "documents": [
+        {
+          "id": "svt-fascicule",
+          "title": "Fascicule de SVT TS2",
+          "kind": "fascicule",
+          "path": "assets/pdfs/Fasicule SVT TS2.pdf",
+          "description": "Cours de SVT de Terminale S2."
+        },
+        {
+          "id": "svt-exercices",
+          "title": "Exercices prépa BAC – SVT",
+          "kind": "epreuve",
+          "path": "assets/pdfs/EXERCICES SVT Terminale S2.pdf",
+          "description": "Exercices d'entraînement au BAC de SVT Terminale S2."
+        }
+      ]
+    },
+    {
+      "id": "histoire-geo",
+      "name": "Histoire-Géographie",
+      "icon": "history",
+      "color": "#BF360C",
+      "documents": [
+        {
+          "id": "hg-fascicule-histoire",
+          "title": "Fascicule d'histoire TS2",
+          "kind": "fascicule",
+          "path": "assets/pdfs/Fascicule_Histoire_TS2.pdf",
+          "description": "Cours d'histoire de Terminale S2."
+        },
+        {
+          "id": "hg-fascicule-geographie",
+          "title": "Fascicule de géographie TS2",
+          "kind": "fascicule",
+          "path": "assets/pdfs/Fascicule_Geographie_TS2.pdf",
+          "description": "Cours de géographie de Terminale S2."
+        }
+      ]
+    }
+  ]
+}
