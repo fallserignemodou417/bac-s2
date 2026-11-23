@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fallserignemodou417.github.io/bac-s2/sitemap.xml
